@@ -1532,8 +1532,8 @@
               "auzi"
             ]
           },
-          "": {
-            "total_words": 12,
+          "Monologue": {
+            "total_words": 15,
             "data_note": "below 30 word threshold — metrics unreliable",
             "top_words": [],
             "vocab_overlap_with_global": null,
@@ -1999,13 +1999,6 @@
           },
           "Fritz Krauss": {
             "total_words": 4,
-            "data_note": "below 30 word threshold — metrics unreliable",
-            "top_words": [],
-            "vocab_overlap_with_global": null,
-            "exclusive_words": []
-          },
-          "null": {
-            "total_words": 3,
             "data_note": "below 30 word threshold — metrics unreliable",
             "top_words": [],
             "vocab_overlap_with_global": null,
@@ -3971,7 +3964,7 @@
               "lucra"
             ]
           },
-          "null": {
+          "Monologue": {
             "total_words": 4,
             "data_note": "below 30 word threshold — metrics unreliable",
             "top_words": [],
@@ -8136,7 +8129,7 @@
           }
         ],
         "vocabulary_per_relationship": {
-          "null": {
+          "Monologue": {
             "total_words": 44,
             "unique_lemmas": 34,
             "ttr": 0.7727,
@@ -8858,7 +8851,7 @@
           }
         ],
         "vocabulary_per_relationship": {
-          "null": {
+          "Monologue": {
             "total_words": 177,
             "unique_lemmas": 107,
             "ttr": 0.6045,
@@ -11019,7 +11012,7 @@
             "vocab_overlap_with_global": null,
             "exclusive_words": []
           },
-          "null": {
+          "Monologue": {
             "total_words": 237,
             "unique_lemmas": 130,
             "ttr": 0.5485,
@@ -11330,7 +11323,7 @@
         },
         "lemma_spot_check": [],
         "vocabulary_per_relationship": {
-          "null": {
+          "Monologue": {
             "total_words": 1,
             "data_note": "below 30 word threshold — metrics unreliable",
             "top_words": [],
@@ -12514,7 +12507,7 @@
               "brad"
             ]
           },
-          "null": {
+          "Monologue": {
             "total_words": 14,
             "data_note": "below 30 word threshold — metrics unreliable",
             "top_words": [],
@@ -15926,7 +15919,7 @@
               "veni"
             ]
           },
-          "null": {
+          "Monologue": {
             "total_words": 123,
             "unique_lemmas": 75,
             "ttr": 0.6098,
@@ -18094,7 +18087,7 @@
               "caz"
             ]
           },
-          "null": {
+          "Monologue": {
             "total_words": 154,
             "unique_lemmas": 97,
             "ttr": 0.6299,
@@ -20984,7 +20977,7 @@
               "găsi"
             ]
           },
-          "null": {
+          "Monologue": {
             "total_words": 47,
             "unique_lemmas": 39,
             "ttr": 0.8298,
@@ -21972,7 +21965,7 @@
             "vocab_overlap_with_global": null,
             "exclusive_words": []
           },
-          "null": {
+          "Monologue": {
             "total_words": 17,
             "data_note": "below 30 word threshold — metrics unreliable",
             "top_words": [],
@@ -22736,7 +22729,7 @@
           }
         ],
         "vocabulary_per_relationship": {
-          "null": {
+          "Monologue": {
             "total_words": 6,
             "data_note": "below 30 word threshold — metrics unreliable",
             "top_words": [],
