@@ -896,7 +896,7 @@ function renderIdentityTab(char) {
 
 async function loadData() {
     try {
-        const response = await fetch('/vampirul-character-network/data.json');
+        const response = await fetch('vampirul-network-data.json');
         networkData = await response.json();
         document.getElementById('loading').style.display = 'none';
         updateStats();
